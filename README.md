@@ -12,7 +12,7 @@ Little helper on assertion.
 
 ## Usage
 
-This was forked from https://github.com/tallesl/net-Assert, a beautiful library for making assertions in non-unit-testing code.  The original library was based on .NET Framework 4.0 and has not been updated in a really long time.  I chose to fork it and upgrade to .NET 6.0.  Most of the original code was preserved.
+This was forked from https://github.com/tallesl/net-Assert, a beautiful library for making assertions in non-unit-testing code.  The original library was based on .NET Framework 4.0 and has not been updated in a really long time.  I chose to fork it and upgrade to .NET 6.0.  Most of the original code was preserved, including the README.md below.
 
 
 I got tired of writing the same boilerplate code for checking unexpected values over and over again, such as:
